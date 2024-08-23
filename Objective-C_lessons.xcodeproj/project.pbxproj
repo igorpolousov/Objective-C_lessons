@@ -29,6 +29,7 @@
 		C2C3520C2C78C2FB00E8F6D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C2C3520E2C78C2FB00E8F6D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C2C3520F2C78C2FB00E8F6D3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C2C352162C78CDA100E8F6D3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +69,7 @@
 				C2C352032C78C2F800E8F6D3 /* ViewController.h */,
 				C2C352042C78C2F800E8F6D3 /* ViewController.m */,
 				C2C352062C78C2F800E8F6D3 /* Main.storyboard */,
+				C2C352162C78CDA100E8F6D3 /* README.md */,
 				C2C352092C78C2FB00E8F6D3 /* Assets.xcassets */,
 				C2C3520B2C78C2FB00E8F6D3 /* LaunchScreen.storyboard */,
 				C2C3520E2C78C2FB00E8F6D3 /* Info.plist */,
